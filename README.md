@@ -1,5 +1,5 @@
 # WebDev-Work
 
-[Link to PieseDez](https://www.piesedez.ro)
+SH Auto Parts: [piesedez.ro](https://www.piesedez.ro)
 
-[Link to Biotest](https://www.biotest.ro)
+Medical Laboratory: [biotest.ro](https://www.biotest.ro)
