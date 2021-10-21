@@ -1,2 +1,5 @@
 # WebDev-Work
-Web Development Projects
+
+[Link to PieseDez](https://www.piesedez.ro)
+
+[Link to Biotest](https://www.biotest.ro)
